@@ -1,0 +1,13 @@
+
+1. next js with mongodb mongoose connect: 
+https://github.com/vercel/next.js/tree/canary/examples/with-mongodb-mongoose
+
+
+2. use paypal in react: 
+https://paypal.github.io/react-paypal-js/?path=/docs/example-paypalbuttons--default
+
+3. papal sandbox account | make fake payments as a seller & customer
+https://developer.paypal.com/developer/applications/
+
+4. Fake sandbox account login
+https://www.sandbox.paypal.com/signin
