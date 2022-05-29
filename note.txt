@@ -11,3 +11,8 @@ https://developer.paypal.com/developer/applications/
 
 4. Fake sandbox account login
 https://www.sandbox.paypal.com/signin
+
+5. free image upload site
+https://cloudinary.com/
+
+
